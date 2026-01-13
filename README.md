@@ -1,6 +1,6 @@
 # Spotify Data Analysis Tool (GDPR Export)
 
-## Authors: PACCHIONI Antoine, German Romanenko, DIALLO Abdoulaye
+## Authors: PACCHIONI Antoine, ROMANENKO German, DIALLO Abdoulaye
 - Program: M1 DS2E, University of Strasbourg
 - Academic year: 2025–2026
 
