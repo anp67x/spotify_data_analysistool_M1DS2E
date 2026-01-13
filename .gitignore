@@ -1,0 +1,16 @@
+# Personal data (Spotify exports)
+data/
+*.json
+*.csv
+
+# Jupyter/Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Env/editor
+venv/
+.vscode/
+
+analysis_state.json
+
