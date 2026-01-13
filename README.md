@@ -34,6 +34,7 @@ directly on GitHub without running the code.
 - StreamingHistory_music_0.json
 - StreamingHistory_podcast_0.json
 - Inferences.json
+
 Place them either on the Desktop or in a specified `data` folder that is accessible by the software (for example, via the Explorer section in VS Code).
 
 Note: All files can be extracted, but the program will only use the mentioned files.
